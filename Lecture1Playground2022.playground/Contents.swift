@@ -7,3 +7,5 @@ print(myFriendlyGreeting)
 print(myFriendlyGreeting2)
 
 print("Sveiki gyvi!")
+
+var naujasSveikinimas: String = "Sveiki kolegos"
