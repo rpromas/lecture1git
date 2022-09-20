@@ -5,3 +5,5 @@ var myFriendlyGreeting2 = "Hi"
 print(myFriendlyGreeting)
 
 print(myFriendlyGreeting2)
+
+print("Sveiki gyvi!")
